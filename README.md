@@ -1,3 +1,5 @@
+PS: Não consegui instalar uma extensão no meu VSCODE Para poder excutar esse arquivo, peço minhas humildes desculpas. Mas estou ancioso e o tempo de entrega estar acabando, então vou deixar Apenas os codigos, mas prometo que durante a semana ainda resolvo esse problema e venho aqui atualizar para ver se esta tudo certo e nos conformes,  mais uma vez, desculpa por ser leigo e como disse, esse é meu primeiro projeto e linguagem C não é meu foco atualmente, por isso nao tinha nenhuma extensão no VScode ate antes de começar esse trabalho.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
